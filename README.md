@@ -1,2 +1,2 @@
-# Ymm
-Ymm programing langauge
+# Y--
+Y-- programing langauge
